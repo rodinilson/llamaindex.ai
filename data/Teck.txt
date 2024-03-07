@@ -1,0 +1,15 @@
+RPA (Automação de Processos Robóticos):
+
+A Automação de Processos Robóticos (RPA) refere-se à utilização de software para automatizar tarefas repetitivas e regras específicas em processos de negócios. Os "robôs" de RPA são programas de computador que imitam a interação humana com sistemas digitais para executar tarefas como entrada de dados, manipulação de documentos, resposta a emails, entre outras. O objetivo é aumentar a eficiência operacional, reduzir erros e liberar os funcionários para se concentrarem em tarefas mais estratégicas e criativas.
+
+A RPA é frequentemente aplicada em ambientes onde sistemas legados ou diferentes aplicações não se integram facilmente, permitindo que os robôs executem tarefas transversais sem a necessidade de intervenção humana constante.
+
+IA Generativa:
+
+A Inteligência Artificial (IA) Generativa refere-se a sistemas ou modelos de IA capazes de gerar novos conteúdos, como imagens, textos, áudio ou até mesmo códigos. Diferentemente de modelos que apenas processam dados existentes, a IA generativa é projetada para criar algo original com base no aprendizado adquirido durante o treinamento.
+
+Um exemplo notável de IA Generativa é a arquitetura GAN (Redes Generativas Adversariais), que consiste em duas redes neurais, um gerador e um discriminador, que competem entre si. O gerador cria novos dados, enquanto o discriminador tenta distinguir entre dados gerados e dados reais. Essa competição leva a uma melhoria contínua na capacidade do gerador de criar dados cada vez mais realistas.
+
+Aplicações práticas de IA generativa incluem a geração de imagens sintéticas, criação de texto autônoma, design assistido por computador e até mesmo a produção de música e arte. Essa tecnologia tem o potencial de impulsionar a criatividade e inovação em diversas áreas.
+
+A OpenAi foi precursora para disponibilizar IA para a população mundial através do chatGPT.
