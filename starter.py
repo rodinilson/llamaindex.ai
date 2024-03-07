@@ -1,12 +1,7 @@
 import logging
 import sys
 import os.path
-from llama_index.core import (
-    VectorStoreIndex,
-    SimpleDirectoryReader,
-    StorageContext,
-    load_index_from_storage,
-)
+from llama_index.core import (VectorStoreIndex,SimpleDirectoryReader,StorageContext,load_index_from_storage,)
 
 #Criar os Embeddings
 #documents = SimpleDirectoryReader("data").load_data()
